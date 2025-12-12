@@ -1,7 +1,7 @@
 [project]
-name = "foundations"
+name = "Foundations of DSA"
 version = "0.1.0"
-description = "Add your description here"
+description = "CU Boulder Foundations of Data Structures and Algorithms Coursera Specialization"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = []
